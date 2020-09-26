@@ -1,5 +1,5 @@
 {
-    "name": "ox/m2-order-grid-field",
+    "name": "oxss/m2-order-grid-field",
     "description": "This module will add the \"Coupon Code\" column to the admin order grid. This new column will be searchable and filterable.",
     "version": "1.0.0",
     "type": "magento2-module",
